@@ -1,4 +1,5 @@
+streamlit>=1.40.0
 pandas
 folium
-streamlit
 streamlit-folium
+altair<5
